@@ -36,7 +36,7 @@ A desktop productivity suite using Python and Tkinter, combining time-based tool
 
 -----
 
-### 🧮 [CalcMaster](https://github.com/VipranshOjha/UIUX-Projects/tree/main/CalcMaster))
+### 🧮 [CalcMaster](https://github.com/VipranshOjha/UIUX-Projects/tree/main/CalcMaster)
 
 A modern desktop application that seamlessly combines a scientific calculator and a multifunctional unit converter, built with Python and Tkinter.
 
