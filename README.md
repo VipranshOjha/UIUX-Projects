@@ -6,7 +6,7 @@ This repository is a collection of frontend-focused applications that emphasize 
 
 ## 📂 Included Projects
 
-### ✅ [To-Do List](https://www.google.com/search?q=./To-Do-List)
+### ✅ [To-Do List](https://github.com/VipranshOjha/UIUX-Projects/tree/main/To-Do-List)
 
 A simple and elegant task management app built with HTML, CSS, and JavaScript.
 
@@ -21,7 +21,7 @@ A simple and elegant task management app built with HTML, CSS, and JavaScript.
 
 -----
 
-### ⏱️ [TimeMaster](https://www.google.com/search?q=./TimeMaster)
+### ⏱️ [TimeMaster](https://github.com/VipranshOjha/UIUX-Projects/tree/main/TimeMaster)
 
 A desktop productivity suite using Python and Tkinter, combining time-based tools in one place.
 
@@ -36,7 +36,7 @@ A desktop productivity suite using Python and Tkinter, combining time-based tool
 
 -----
 
-### 🧮 [CalcMaster](https://www.google.com/search?q=./CalcMaster)
+### 🧮 [CalcMaster](https://github.com/VipranshOjha/UIUX-Projects/tree/main/CalcMaster))
 
 A modern desktop application that seamlessly combines a scientific calculator and a multifunctional unit converter, built with Python and Tkinter.
 
