@@ -35,34 +35,72 @@ Here’s CalcMaster in action:
 ### 🧮 Default Calculator Interface  
 A modern dark-themed calculator with scientific functions.  
 <br>  
-<img src="screenshots/calculator-default.png" alt="Default Calculator Interface" width="300"/>  
+<img src="screenshots/calculator-default.png" alt="Default Calculator Interface" width="400"/>  
 
 ---
 
 ### ➕ Performing Calculations  
 See results update in real-time while you compute.  
 <br>  
-<img src="screenshots/calculator-working.png" alt="Calculator performing a calculation" width="300"/>  
+<img src="screenshots/calculator-working.png" alt="Calculator performing a calculation" width="400"/>  
 
 ---
 
 ### 📜 Calculation History  
 Go back and review all your previous calculations easily.  
 <br>  
-<img src="screenshots/calculation-history.png" alt="Calculation History" width="300"/>  
+<img src="screenshots/calculation-history.png" alt="Calculation History" width="400"/>  
 
 ---
 
 ### 🔄 Converters Hub  
 Choose from multiple built-in converters for everyday needs.  
 <br>  
-<img src="screenshots/converters-menu.png" alt="Converter Options" width="300"/>  
+<img src="screenshots/converters-menu.png" alt="Converter Options" width="400"/>  
 
 ---
 
 ## 📦 Installation  
 
 1. Clone the repository:  
-   ```bash
+   ```
    git clone https://github.com/VipranshOjha/UIUX-Projects.git
    cd UIUX-Projects/CalcMaster
+   ```
+
+2. Requirements:
+
+   * Python 3.x
+   * Tkinter (pre-installed in most Python distributions)
+
+3. Run the application:
+
+   ```
+   python main.py
+   ```
+
+---
+
+## 📂 File Structure
+
+```
+CalcMaster/
+├── main.py          # Entry point of the application
+├── Calculator.py    # Logic & UI for the scientific calculator
+├── Converter.py     # Logic & UI for unit conversions
+└── screenshots/     # App screenshots
+```
+
+---
+
+## ❤️ Contributing
+
+We welcome contributions to make CalcMaster even better!
+
+* Report bugs via GitHub Issues.
+* Suggest features via Issues.
+* Fork & submit PRs for fixes or improvements.
+
+---
+
+⭐ **Star this repo** if you find CalcMaster useful!
