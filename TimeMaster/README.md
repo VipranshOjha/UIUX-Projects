@@ -1,82 +1,102 @@
-# ⏰ TimeMaster
+# ⏰ TimeMaster  
 
-**TimeMaster** is a Python-based suite of time management tools, including an Alarm, Timer, Stopwatch, and World Clock. Designed for simplicity and efficiency, it provides command-line utilities to help you manage and track time effectively.
+**TimeMaster** is a sleek and intuitive time management application built with **Python’s Tkinter library**.  
+It brings together a **World Clock, Alarm, Stopwatch, and Timer** into one user-friendly interface, designed for productivity and ease of use.  
 
-## 🧰 Features
+---
 
-- **Alarm**: Set alarms for specific times with customizable messages.
-- **Timer**: Countdown timers for tasks or breaks.
-- **Stopwatch**: Measure elapsed time with start, stop, and reset functionalities.
-- **World Clock**: Display current times across different time zones.
+## ✨ Features  
 
-## 🚀 Getting Started
+- **🌍 World Clock** – View the current local time at a glance.  
+- **⏰ Alarm** – Set and manage multiple alarms with ease.  
+- **⏱️ Stopwatch** – Track elapsed time with lap functionality.  
+- **⏳ Timer** – Set countdowns for tasks, study sessions, or breaks.  
 
-### Prerequisites
+---
 
-- Python 3.x installed on your system.
+## 📸 Screenshots  
 
-### Installation
+Take a look at TimeMaster in action:  
 
-1. **Clone the repository:**
+### 🌍 World Clock  
+Displays the current local time.  
+<br>  
+<img src="screenshots/world-clock.png" alt="World Clock View" width="300"/>  
 
-   ```bash
-   git TimeMaster https://github.com/VipranshOjha/TimeMaster.git
-   cd TimeMaster
+---
 
-2. **Install dependencies:**
+### ⏰ Alarm  
+Create new alarms and manage your active alarms.  
+<br>  
+<img src="screenshots/alarm.png" alt="Alarm View" width="300"/>  
 
-   ```bash
+---
+
+### ⏱️ Stopwatch  
+Track time with precision, including lap recording.  
+
+| Stopwatch Default | Stopwatch with Laps |  
+| :---: | :---: |  
+| <img src="screenshots/stopwatch-default.png" alt="Default stopwatch view" width="300"/> | <img src="screenshots/stopwatch-laps.png" alt="Stopwatch with lap times" width="300"/> |  
+
+---
+
+### ⏳ Timer  
+Set a countdown and track progress visually.  
+
+| Timer Setup | Timer Running |  
+| :---: | :---: |  
+| <img src="screenshots/timer-setup.png" alt="Setting up the timer" width="300"/> | <img src="screenshots/timer-running.png" alt="Timer in progress" width="300"/> |  
+
+---
+
+## 🚀 Installation  
+
+1. **Clone the repository**  
+   ```
+   git clone https://github.com/VipranshOjha/UIUX-Projects.git
+   cd UIUX-Projects/TimeMaster
+   ```
+
+2. **Install dependencies**
+
+   ```
    pip install -r requirements.txt
    ```
 
-## 🛠️ Usage
+3. **Run the application**
 
-Each tool is a separate Python script. Run them individually as needed.
+   ```
+   python main.py
+   ```
 
-### Alarm
-
-```bash
-python Alarm.py
-```
-
-*Follow the prompts to set an alarm.*
-
-### Timer
-
-```bash
-python Timer.py
-```
-
-*Set a countdown timer by specifying the duration.*
-
-### Stopwatch
-
-```bash
-python Stopwatch.py
-```
-
-*Start, stop, and reset the stopwatch as needed.*
-
-### World Clock
-
-```bash
-python WorldClock.py
-```
-
-*View current times in various time zones.*
+---
 
 ## 📂 Project Structure
 
 ```
-Clock/
+TimeMaster/
+├── main.py
 ├── Alarm.py
 ├── Timer.py
 ├── Stopwatch.py
 ├── WorldClock.py
-├── requirements.txt
-└── README.md
+├── screenshots/
+│   ├── world-clock.png
+│   ├── alarm.png
+│   ├── timer-setup.png
+│   ├── timer-running.png
+│   ├── stopwatch-default.png
+│   └── stopwatch-laps.png
+└── requirements.txt
 ```
+
+---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+Contributions are always welcome!
+
+* Fork the repo
+* Create a feature branch
+* Submit a pull request
