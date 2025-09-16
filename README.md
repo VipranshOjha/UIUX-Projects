@@ -105,4 +105,3 @@ Feel free to **open an issue** or **fork and contribute** 🚀
 ---
 
 🎯 *Design simple. Build smart.*
-```
